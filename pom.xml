@@ -32,9 +32,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/driftyco/ionicons.git</url>
-        <connection>scm:git:https://github.com/driftyco/ionicons.git</connection>
-        <developerConnection>scm:git:https://github.com/driftyco/ionicons.git</developerConnection>
+        <url>https://github.com/webjars/ionicons.git</url>
+        <connection>scm:git:https://github.com/webjars/ionicons.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/ionicons.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
